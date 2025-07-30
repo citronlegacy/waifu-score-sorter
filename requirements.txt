@@ -1,0 +1,6 @@
+torch>=2.0.0
+pillow>=9.0.0
+transformers>=4.36.0
+pytorch-lightning>=2.0.0
+clip-anytorch
+huggingface-hub>=0.19.0
